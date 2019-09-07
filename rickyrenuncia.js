@@ -1,4 +1,4 @@
-//Ricardo Cabret
+//Ricardo Cabret - offline version
 
 const v = ":";
 
@@ -147,7 +147,6 @@ const getPosPhrase = (x) => {
     }
     return p
 };
-
 
 const cap = (s) => {
     return s.charAt(0).toUpperCase() + s.slice(1);
