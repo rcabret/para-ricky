@@ -1,5 +1,7 @@
-Ricky Renuncia script version offline sin realtime scraping
-por Ricardo Cabret
+‘ Para Ricky y sus panitas’ script version offline
+
+Se necesita Node para correr este script
+Https://www.nodejs.org
 
 Para correr el script pongo el folder `para-ricky` en el `Desktop`
 
