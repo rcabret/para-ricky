@@ -1,5 +1,5 @@
-Ricky Renuncia script version offline sin realtime scraping
-por Ricardo Cabret
+<h2>Para Ricky y sus panitas - <i>version offline</i></h2> 
+Author: Ricardo Cabret
 
 Para correr el script pongo el folder `para-ricky` en el `Desktop`
 
@@ -9,5 +9,5 @@ Escribe los siguientes comandos desde `root`
 
 `cd Desktop` <br>
 `cd para-ricky` <br>
-`node rickyrenuncia`
+`node --experimental-modules rickyrenuncia.mjs`
 
