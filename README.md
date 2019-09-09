@@ -1,8 +1,6 @@
 <h2>Para Ricky y sus panitas - <i>version offline</i></h2> 
-Author: Ricardo Cabret
-
 Se necesita Node para correr este script
-Https://www.nodejs.org
+https://www.nodejs.org
 
 Para correr el script descarga el codigo usando el boton
 `Clone or download` al `Desktop`
