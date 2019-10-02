@@ -8,7 +8,6 @@ Desde la aplicacion  `Terminal`  <br>
 
 Escribe los siguientes comandos desde `root` :<br><br>
 
-`cd Desktop` <br>
-`cd para-ricky-master` <br>
+`cd Desktop/para-ricky-master` <br>
 `node --experimental-modules rickyrenuncia.mjs`
 
